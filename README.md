@@ -24,7 +24,8 @@ dj
 and the game will start.
 You can open the DOSBox options text file and type these commands at the end of the file so that every time you open the DOSBox, these commands will run automatically and you don't have to type them anymore.
 You can also skip these steps as I have assembled and linked the dj.asm before, so you just need to type `dj` and start playing the game.
-Hope you enjoy it :)
+Hope you enjoy it :).
+
 You can read the codes and the doc folder to understand the implementation and the policies used in this project.
 ## Gameplay preview (3 minunts long) :
 ![Gameplay gif](doc/Untitled-Project.gif)
